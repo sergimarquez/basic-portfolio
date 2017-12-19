@@ -1,0 +1,54 @@
+body { 	padding-top: 70px;
+		background: #FEFFFF;
+		}
+
+#header {
+	padding-top: 50px;
+    background: #3AAFA9;
+}
+
+#contact {
+	color: #2c3e50;
+    background: #DEF2F1;
+}
+
+#portfolio {
+	padding-top: 10px;
+}
+
+#copyright{
+	text-align: center;
+	color: grey;
+}
+
+.jumbotron .h1, .jumbotron h1{
+    color: #FEFFFF;
+}
+
+h2, p {
+	color: #17252a;
+	font-weight: bold;
+}
+
+img {
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+}
+
+.icons {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.fa {
+	color: #2B7A78;
+}
+
+.fa-3x {
+	padding: 0 10px;
+	color: #FEFFFF;
+}
+
